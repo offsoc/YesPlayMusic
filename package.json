@@ -28,7 +28,7 @@
   "dependencies": {
     "@unblockneteasemusic/rust-napi": "^0.4.0",
     "NeteaseCloudMusicApi": "^4.23.3",
-    "axios": "^0.30.0",
+    "axios": "^1.8.2",
     "change-case": "^4.1.2",
     "cli-color": "^2.0.0",
     "color": "^4.2.3",
@@ -47,7 +47,7 @@
     "electron-log": "^4.3.0",
     "electron-store": "^8.0.1",
     "electron-updater": "^6.3.0",
-    "esbuild": "^0.25.0",
+    "esbuild": "^0.25.1",
     "esbuild-loader": "^4.0.3",
     "express": "^4.21.2",
     "express-fileupload": "^1.2.0",
